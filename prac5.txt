@@ -1,2 +1,2 @@
 fetch and merge
-practice completed
+pull practice completed
